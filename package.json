@@ -11,8 +11,8 @@
     "url": "git@github.com/0-vortex/workers-lastfm-shields.git"
   },
   "engines": {
-    "node": ">=15.2.0",
-    "npm": ">=7.0.9"
+    "node": ">=14",
+    "npm": ">=6"
   },
   "license": "BSD-3-Clause",
   "description": "Generate last.fm last played shields with Cloudflare Workers in 200+ edge locations",
